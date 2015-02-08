@@ -1,0 +1,12 @@
+
+
+#ifndef DALVIK_VERSION_H_
+#define DALVIK_VERSION_H_
+
+#define DALVIK_MAJOR_VERSION    1
+#define DALVIK_MINOR_VERSION    6
+#define DALVIK_BUG_VERSION      0
+
+#define DALVIK_VM_BUILD         27
+
+#endif  // DALVIK_VERSION_H_

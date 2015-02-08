@@ -1,0 +1,7 @@
+
+
+#ifndef JIT_TEMPLATE
+#define JIT_TEMPLATE(X)
+#endif
+
+JIT_TEMPLATE(INTERPRET)

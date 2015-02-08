@@ -1,0 +1,3 @@
+#define UTS_RELEASE "3.0.13"
+#define BUILD_INFO "ALPS.ICS2.6577.SP.V1.20120605"
+#define BUILD_FINGERPRINT "jrd77_cu_ics2"
